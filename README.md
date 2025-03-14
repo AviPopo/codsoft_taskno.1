@@ -12,7 +12,7 @@ A simple yet elegant Clock App for Android, featuring a customizable timer, alar
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ClockApp.git
+   git clone https://github.com/AviPopo/ClockApp.git
    ```
 2. Open the project in **Android Studio**.
 3. Sync Gradle and build the project.
